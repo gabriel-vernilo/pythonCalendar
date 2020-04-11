@@ -1,4 +1,4 @@
-# pythonCalendar
+# python Calendar (tkinter)
 a simple calendar using 'tkinter' and 'calendar' python libs
 
 A simple Calendar, to study the grafic interface (made in Tkinter) and Times proprieties 
